@@ -31,7 +31,7 @@ I actively engaged in fine-tuning various model hyperparameters to adapt the arc
 One drawback of the YOLOv3 method for object detection in satellite photos is how well it performs in difficult situations. The algorithm may have trouble with items that are small in size or have poor contrast compared to their surroundings, despite its general accuracy and efficiency. This restriction may result in situations where the system is unable to detect objects or generates unreliable bounding box predictions. As it relies on anchor boxes and non-maximum suppression approaches for localization and suppression of overlapping detections, YOLOv3 may also have trouble recognizing objects that are partially obscured or tightly grouped together. Although efforts have been made to improve the algorithm, these drawbacks show the need for additional study and YOLOv3 fine-tuning, especially in handling complex and challenging scenarios commonly encountered in satellite imagery.
 
 ## •	Results:
-The results of implementing YOLOv3 for object detection on satellite images were remarkable. Even though it was taught to recognize a single object at a time, it will detect the majority of the same type of objects.
+The output of satellite imagery object detection can be used for various applications, such as urban planning, land cover mapping, disaster management, environmental monitoring, and infrastructure development, among others. The results enable analysts, researchers, and decision-makers to gain insights, make informed decisions, and extract valuable information from satellite imagery data.
 
 ## Resources:
 Original Repository: https://github.com/AlexeyAB/darknet
