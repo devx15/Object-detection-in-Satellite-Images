@@ -8,6 +8,10 @@ DYSL-AI, DRDO
 ## •	Introduction:
 This report explores the application of YOLOv3 (You Only Look Once version 3) for object detection in satellite imagery. By leveraging YOLOv3, we aim to enhance the efficiency and accuracy of object detection in satellite images, enabling improved analysis and interpretation of remote sensing data. This report provides an overview of the YOLOv3 algorithm, its use in satellite image analysis, and an evaluation of its performance using real-world datasets.
 
+
+![image](https://github.com/devx15/Object-detection-in-Satellite-Images/assets/104734140/19df4af6-0d00-409c-a91d-7c5d73288fd4)
+
+
 ## •	Algorithm for Object Detection using YOLOv3:
 1. Pre-trained YOLOv3 weights and configuration should be loaded.
 2. Reduce the size and normalize the satellite image.
